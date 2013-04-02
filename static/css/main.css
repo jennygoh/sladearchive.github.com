@@ -1,0 +1,56 @@
+
+body {
+    background: #ffffff;
+    background-image: none;
+    font-family: Gothic720BT-LightB, arial, sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+    margin-bottom: 17px;
+}
+
+#main_header{
+  background: #000 url(/static/img/ucl-mask-2-elong.png) bottom right no-repeat;
+  height: 117px;
+}
+
+#main_header h1 {
+  font-weight: normal;
+  margin-top: 75px;
+}
+
+#main_header a,
+#main_header a:visited,
+#main_header a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+a, a:visited, a:hover {
+  color: #ea9000;
+}
+
+li.face_thumb {
+  min-height: 369px;
+}
+
+
+/* Visualisation */
+
+#back {
+  margin-bottom: -100%;
+}
+
+
+rect.face {
+  fill: transparent;
+  stroke-width: 1px;
+  stroke: #999;
+  stroke-opacity: 0.3;
+}
+
+.thumb rect {
+  stroke-width: 2px;
+  stroke: #666;
+  stroke:opacity: 0.8;
+  fill: transparent;
+}
