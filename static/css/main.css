@@ -48,9 +48,28 @@ rect.face {
   stroke-opacity: 0.3;
 }
 
-.thumb rect {
+.thumb rect.frame {
   stroke-width: 2px;
   stroke: #666;
-  stroke:opacity: 0.8;
+  stroke:opacity: 0.3;
   fill: transparent;
+}
+
+.thumb .tag rect {
+  fill: #666;
+  opacity: 0.3;
+}
+
+.tag body {
+  background: transparent;
+
+}
+
+.tag body .tag_text {
+  color: #fff;
+  font-size: 10px;
+  line-height: 11.5px;
+  background: transparent;
+  opacity: 0.8;
+  overflow: hidden;
 }
