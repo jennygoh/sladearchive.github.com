@@ -6,16 +6,18 @@ body {
     font-size: 14px;
     line-height: 23px;
     margin-bottom: 17px;
+    color: #222;
 }
 
 #main_header{
   background: #000 url(/static/img/ucl-mask-2-elong.png) bottom right no-repeat;
   height: 117px;
+  z-index: -200;
 }
 
 #main_header h1 {
   font-weight: normal;
-  margin-top: 75px;
+  padding-top: 70px;
 }
 
 #main_header a,
@@ -23,6 +25,31 @@ body {
 #main_header a:hover {
   color: #000;
   text-decoration: none;
+}
+
+#watermark {
+  position: absolute;
+  top: 120px;
+  right: 40px;
+  opacity: 0.2;
+  filter:alpha(opacity=20);
+  z-index: -100;
+
+}
+
+.breadcrumb {
+  background: transparent;
+}
+
+.breadcrumb .active a,
+.breadcrumb .active a:visited {
+  color: #222;
+}
+
+.nav-list li.active a,
+.nav-list li.active a:hover {
+  background: #eee;
+  color: #ea9000;
 }
 
 a, a:visited, a:hover {
@@ -33,6 +60,9 @@ li.face_thumb {
   min-height: 369px;
 }
 
+.media-list .class-photo {
+  width: 300px;
+}
 
 /* Visualisation */
 
@@ -48,9 +78,38 @@ rect.face {
   stroke-opacity: 0.3;
 }
 
-.thumb rect {
+.thumb rect.frame {
   stroke-width: 2px;
   stroke: #666;
-  stroke:opacity: 0.8;
+  stroke:opacity: 0.3;
   fill: transparent;
+}
+
+.thumb .tag rect {
+  fill: #666;
+  opacity: 0.3;
+}
+
+.tag body {
+  background: transparent;
+
+}
+
+.tag body .tag_text {
+  color: #fff;
+  font-size: 10px;
+  line-height: 11.5px;
+  background: transparent;
+  opacity: 0.8;
+  overflow: hidden;
+}
+
+#names {
+  font-size: 11px;
+}
+
+#names .name {
+  display: block;
+  float: left;
+  padding-right: 1em;
 }
