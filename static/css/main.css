@@ -61,13 +61,13 @@ li.face_thumb {
 }
 
 .media-list .class-photo {
-  width: 300px;
+
 }
 
 /* Visualisation */
 
 #back {
-  margin-bottom: -100%;
+  margin-bottom: 0;
 }
 
 
