@@ -97,7 +97,8 @@ li.face_thumb {
   min-height: 369px;
 }
 
-.media-list .class-photo {
+.class-photo-item {
+  margin-bottom: 2em;
 }
 
 .class-photo-content {
