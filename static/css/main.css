@@ -1,3 +1,37 @@
+/* styles specific for different size screens */
+
+/* Large desktop */
+@media (min-width: 1200px) {
+  #main_header{
+    background: #000 url(/static/img/ucl-mask-2-elong.png) bottom right no-repeat;
+    height: 117px;
+    z-index: -200;
+  }
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+
+}
+
+/* max 979px and down */
+
+@media (max-width: 1200px) {
+  #main_header{
+    background: #fff;
+    border-bottom: 1px solid #000;
+  }
+}
+
+/* general */
 
 body {
     background: #ffffff;
@@ -9,11 +43,6 @@ body {
     color: #222;
 }
 
-#main_header{
-  background: #000 url(/static/img/ucl-mask-2-elong.png) bottom right no-repeat;
-  height: 117px;
-  z-index: -200;
-}
 
 #main_header h1 {
   font-weight: normal;
@@ -69,7 +98,6 @@ li.face_thumb {
 }
 
 .media-list .class-photo {
-  width: 570px;
 }
 
 .class-photo-content {
