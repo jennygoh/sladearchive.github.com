@@ -46,7 +46,7 @@ body {
 
 #main_header h1 {
   font-weight: normal;
-  padding-top: 70px;
+  padding-top: 60px;
 }
 
 #main_header a,
@@ -75,6 +75,10 @@ body {
   color: #222;
 }
 
+.breadcrumb>li+li:before {
+  content:"";
+}
+
 .nav-list li.active a,
 .nav-list li.active a:hover {
   background: #eee;
@@ -101,12 +105,24 @@ li.face_thumb {
   margin-bottom: 2em;
 }
 
+.class-photo-item img{
+  width: 100%;
+}
+
 .class-photo-content {
   margin-top: 3em;
   margin-bottom: 3em;
   padding-top: 2em;
   padding-bottom: 2em;
   border-top: 3px solid #eee;
+}
+
+.badge.available {
+  background: #468847;
+}
+
+.badge.lost {
+  background: #ea9000;
 }
 
 /* Visualisation */
@@ -157,4 +173,10 @@ rect.face {
   display: block;
   float: left;
   padding-right: 1em;
+}
+
+/* Name Index */
+
+.name-index img {
+  width: 100%;
 }

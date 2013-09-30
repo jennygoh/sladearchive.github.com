@@ -5,6 +5,7 @@ $(document).ready(function() {
       main = function () {
         var total_height = $back_image.height(),
             total_width = $back_image.width();
+            tip_timer = undefined;
 
         if (total_height < 10) {
           window.setTimeout(function() {
@@ -14,7 +15,6 @@ $(document).ready(function() {
         }
 
         $back_image.off('loaded');
-        $back_image.css('margin-bottom', '-100%');
 
         var xScale = d3.scale
                       .linear()
@@ -29,9 +29,19 @@ $(document).ready(function() {
         window.scales = [xScale, yScale];
 
         var svg = d3.select("#vis").append("svg")
-                  .attr("width", total_width)
                   .attr("height", total_height)
+                  .attr("width", total_width)
                   ;
+
+
+        svg.append("image")
+          .attr("xlink:href", $back_image.attr('src'))
+          .attr("x", 0)
+          .attr("y", 0)
+          .attr("height", total_height)
+          .attr('width', total_width);
+
+        $back_image.hide();
 
         var face_over = function(d, i) {
 
@@ -82,6 +92,9 @@ $(document).ready(function() {
               .attr("y", ypos)
               .attr("height", d.locations.h)
               .attr('width', d.locations.w)
+              .on('mouseover', function(nd, ni) {
+                cancel_face_out(d, i);
+              }, true)
               .on('mouseenter', function(nd, ni) {
                 cancel_face_out(d, i);
               }, true)
@@ -131,18 +144,20 @@ $(document).ready(function() {
 
           },
           cancel_face_out = function (d, i) {
-            if(d.timer) {
-              window.clearTimeout(d.timer);
+
+            if(tip_timer) {
+              window.clearTimeout(tip_timer);
             }
           },
           face_out = function (d, i) {
+
             cancel_face_out(d, i);
             var timer = window.setTimeout(function() {
               clear_thumb(d, i);
-              d.timer = undefined;
+              tip_timer = undefined;
               return true;
-            }, 5000);
-            d.timer = timer;
+            }, 1000);
+            tip_timer = timer;
           },
           clear_thumb = function(d, i) {
             d3.selectAll('g.thumb').remove();
@@ -160,7 +175,7 @@ $(document).ready(function() {
                 .attr("height", function(d) { return yScale(d.locations.h); })
                 .attr('class', 'face')
               .on('mouseenter', face_over, true)
-              .on('mouseout', face_out, true)
+              .on('mouseleave', face_out, true)
               .on('click', go_to_face, true)
               ;
 
@@ -172,7 +187,8 @@ $(document).ready(function() {
                 .attr('href', function(d) { return '#' + d.name;})
                 .text(function(d) { return d.who;})
               .on('mouseenter', face_over, true)
-              .on('mouseout', face_out, true)
+              .on('mouseover', cancel_face_out, true)
+              .on('mouseleave', face_out, true)
               .on('click', go_to_face, true)
               ;
       };

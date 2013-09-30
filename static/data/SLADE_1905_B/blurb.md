@@ -1,0 +1,1 @@
+This is the earliest unofficial ‘class photo’, taken after the annual Slade Strawberry picnic on 23 June 1905. It likely represents only some of the students studying at the Slade at the time.
