@@ -180,3 +180,7 @@ rect.face {
 .name-index img {
   width: 100%;
 }
+
+#name_index_panels > .tab-pane > .row {
+  margin-top: 1em;
+}
