@@ -6,6 +6,7 @@
     "y": 1908,
     "x": 9156
   },
+  "year": 1965,
   "face_locations": [
     {
       "name": "hm224y807982ll1a",
@@ -98,6 +99,7 @@
       }
     },
     {
+      "who": "Carter, B.A.R. \"Sam\"",
       "name": "shsc6dt5qyqqm4o7",
       "locations": {
         "y": 286,
@@ -116,6 +118,7 @@
       }
     },
     {
+      "who": "dos Santos, Bartholomeu",
       "name": "5g12zhuj4hodneq7",
       "locations": {
         "y": 315,
@@ -161,6 +164,7 @@
       }
     },
     {
+      "who": "Sutton, Phillip",
       "name": "v9qypl4afln7nwex",
       "locations": {
         "y": 350,
@@ -170,6 +174,7 @@
       }
     },
     {
+      "who": "Elliot, Brian",
       "name": "narbgdi0rmg4crou",
       "locations": {
         "y": 356,
@@ -224,6 +229,7 @@
       }
     },
     {
+      "who": "David, Madelaine",
       "name": "j0u7hz61k2w6ejnn",
       "locations": {
         "y": 400,
@@ -278,6 +284,7 @@
       }
     },
     {
+      "who": "Newman, Gerald",
       "name": "osaruuvc50pz95n6",
       "locations": {
         "y": 499,
@@ -287,6 +294,7 @@
       }
     },
     {
+      "who": "Davidson, Martin",
       "name": "etipf0bymylb4gvk",
       "locations": {
         "y": 508,
@@ -323,6 +331,7 @@
       }
     },
     {
+      "who": "Goddard, Jonathan",
       "name": "sy6307r5ni2mfs1z",
       "locations": {
         "y": 555,
@@ -368,6 +377,7 @@
       }
     },
     {
+      "who": "Doxiadis, Euphrosyne",
       "name": "1c9fksyyga1lvzof",
       "locations": {
         "y": 569,
@@ -386,6 +396,7 @@
       }
     },
     {
+      "who": "Harryman, Martin",
       "name": "pu7kb344rrzfrisl",
       "locations": {
         "y": 582,
@@ -431,6 +442,7 @@
       }
     },
     {
+      "who": "Kelly, Patricia",
       "name": "h60ejm3bgjohw2nq",
       "locations": {
         "y": 594,
@@ -485,6 +497,7 @@
       }
     },
     {
+      "who": "Professor Gerrard",
       "name": "1dfi3be9yotflxul",
       "locations": {
         "y": 789,
@@ -494,6 +507,7 @@
       }
     },
     {
+      "who": "Townsend, William",
       "name": "ko7bqcz943fa7hgb",
       "locations": {
         "y": 795,
@@ -503,6 +517,7 @@
       }
     },
     {
+      "who": "Coldstream, William",
       "name": "rmqyrivzo2r6wnvf",
       "locations": {
         "y": 798,
@@ -530,6 +545,7 @@
       }
     },
     {
+      "who": "Shorrock, Diane",
       "name": "w9ezhpchaoinlz2u",
       "locations": {
         "y": 812,
@@ -557,6 +573,7 @@
       }
     },
     {
+      "who": "Piper, John",
       "name": "04jmgji75lwwtavb",
       "locations": {
         "y": 818,
@@ -710,6 +727,7 @@
       }
     },
     {
+      "who": "dos Santos, Bartholomeu",
       "name": "gul6y9ag3p46nd93",
       "locations": {
         "y": 312,
@@ -746,6 +764,7 @@
       }
     },
     {
+      "who": "Betts, Marina later Scharff",
       "name": "ns8q3qibizvzt1m2",
       "locations": {
         "y": 404,
@@ -764,6 +783,7 @@
       }
     },
     {
+      "who": "Ewins, Les  the Beadle",
       "name": "m2sqbbbbmjqjlpxh",
       "locations": {
         "y": 474,
@@ -836,6 +856,7 @@
       }
     },
     {
+      "who": "Bennett, Mrs Coldstream's secretary",
       "name": "yqf9z4wptcofthiv",
       "locations": {
         "y": 557,
@@ -854,6 +875,7 @@
       }
     },
     {
+      "who": "Lane, Hilary",
       "name": "v0vafa0g2f7nj64r",
       "locations": {
         "y": 584,
@@ -989,6 +1011,7 @@
       }
     },
     {
+      "who": "Clifford, Steve",
       "name": "whg5isoaivwhhlyc",
       "locations": {
         "y": 471,
@@ -1015,5 +1038,6 @@
         "h": 152
       }
     }
-  ]
+  ],
+  "title": "SLADE 1965"
 }
