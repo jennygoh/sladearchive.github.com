@@ -63,6 +63,8 @@
           
 
 
+<div id="year-index">
+</div>
 
 <div class="name-index">
 
@@ -88343,6 +88345,10 @@
 <script src="/static/lib/jquery.lazyload/jquery.lazyload.min.js"></script>
 
 <script type="text/javascript">
+var year_data = [[1905, 0], [1931, 37], [1938, 127], [1950, 0], [1951, 0], [1952, 0], [1953, 121], [1954, 0], [1955, 0], [1956, 0], [1957, 0], [1959, 0], [1965, 26], [1978, 16], ["undated", 0]];
+</script>
+<script src="/static/js/year_index.js" type="text/javascript"></script>
+<script type="text/javascript">
 $(document).ready(function() {
   $('#name_index_tab a').click(function (e) {
     e.preventDefault();
@@ -88352,8 +88358,6 @@ $(document).ready(function() {
 
   $('img.portrait', $('.name-index')).lazyload();
 });
-
-
 </script>
 
 
