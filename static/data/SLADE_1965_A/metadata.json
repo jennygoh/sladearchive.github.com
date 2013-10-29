@@ -6,7 +6,6 @@
     "y": 1908,
     "x": 9156
   },
-  "year": 1965,
   "face_locations": [
     {
       "name": "hm224y807982ll1a",
@@ -479,6 +478,7 @@
       }
     },
     {
+      "who": "Knowles, Mike",
       "name": "zwokla3vrl7sbd22",
       "locations": {
         "y": 772,
@@ -536,6 +536,7 @@
       }
     },
     {
+      "who": "Gross, Anthony",
       "name": "xkvbgtpwta2i4s7c",
       "locations": {
         "y": 808,
@@ -637,6 +638,7 @@
       }
     },
     {
+      "who": "Henderson, William",
       "name": "9gjg9shh0e7jw0ed",
       "locations": {
         "y": 829,
@@ -1021,6 +1023,7 @@
       }
     },
     {
+      "who": "Claughton, R.B.",
       "name": "k7lhhzgcdltflalb",
       "locations": {
         "y": 757,
@@ -1038,6 +1041,5 @@
         "h": 152
       }
     }
-  ],
-  "title": "SLADE 1965"
+  ]
 }
