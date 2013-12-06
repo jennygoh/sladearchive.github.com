@@ -1,12 +1,12 @@
 {
   "name": "jquery.lazyload",
   "homepage": "https://github.com/tuupola/jquery_lazyload",
-  "version": "1.9.0",
-  "_release": "1.9.0",
+  "version": "1.9.1",
+  "_release": "1.9.1",
   "_resolution": {
     "type": "version",
-    "tag": "1.9.0",
-    "commit": "3d01e89aae701513d6a84888f8b1bdcd52961a29"
+    "tag": "1.9.1",
+    "commit": "6324246a6148584d60dec43f39a56c5208aa1c36"
   },
   "_source": "git://github.com/tuupola/jquery_lazyload.git",
   "_target": "*",
