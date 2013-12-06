@@ -1,7 +1,7 @@
 {
-  "group_image": "SLADE_1954-1",
   "title": "SLADE 1954 (1)",
   "year": 1954,
+  "group_image": "SLADE_1954-1",
   "dim": {
     "y": 2437,
     "x": 11811
@@ -1088,6 +1088,7 @@
       }
     },
     {
+      "who": "Adams, Albert",
       "name": "et8lnm4nihvtj5ru",
       "locations": {
         "y": 1120,
@@ -1142,6 +1143,7 @@
       }
     },
     {
+      "who": "Riley, Harold",
       "name": "1h2s6oc99uby8g69",
       "locations": {
         "y": 1151,
