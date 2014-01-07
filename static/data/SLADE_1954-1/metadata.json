@@ -1,7 +1,7 @@
 {
+  "group_image": "SLADE_1954-1",
   "title": "SLADE 1954 (1)",
   "year": 1954,
-  "group_image": "SLADE_1954-1",
   "dim": {
     "y": 2437,
     "x": 11811
@@ -242,6 +242,7 @@
       }
     },
     {
+      "who": "Iqbal, Khalid",
       "name": "chc505kifg3vhc8h",
       "locations": {
         "y": 409,
@@ -296,6 +297,7 @@
       }
     },
     {
+      "who": "Mortimer, Ian",
       "name": "hnmtzibtel2v23eb",
       "locations": {
         "y": 419,
@@ -341,6 +343,7 @@
       }
     },
     {
+      "who": "Cross, Tom",
       "name": "sp8fwfzvrffbww13",
       "locations": {
         "y": 441,
@@ -503,6 +506,7 @@
       }
     },
     {
+      "who": "Evans, Margaret",
       "name": "o8dsswh5lc2lgxoz",
       "locations": {
         "y": 556,
@@ -674,6 +678,7 @@
       }
     },
     {
+      "who": "Rego, Paula",
       "name": "5l4pmitdnx3ve5va",
       "locations": {
         "y": 621,
@@ -836,6 +841,7 @@
       }
     },
     {
+      "who": "Wilson, Scottie",
       "name": "4aj5w0py3os5kae6",
       "locations": {
         "y": 836,
@@ -863,6 +869,7 @@
       }
     },
     {
+      "who": "Peace, John",
       "name": "76rga0lyb4ytyn7z",
       "locations": {
         "y": 841,
@@ -908,6 +915,7 @@
       }
     },
     {
+      "who": "Elliott, Michael",
       "name": "us2nfjad2mzu4v8k",
       "locations": {
         "y": 861,
@@ -1306,6 +1314,7 @@
       }
     },
     {
+      "who": "Butler, Reg",
       "name": "ua8bqt0t9b3pxysl",
       "locations": {
         "y": 1100,
@@ -1351,6 +1360,7 @@
       }
     },
     {
+      "who": "Coomber, Thomas Warren",
       "name": "lcdm1yj3j3hnt6bu",
       "locations": {
         "y": 1158,
@@ -1531,6 +1541,7 @@
       }
     },
     {
+      "who": "Reece, Jennifer",
       "name": "m0kd5kpns4vl2h54",
       "locations": {
         "y": 564,

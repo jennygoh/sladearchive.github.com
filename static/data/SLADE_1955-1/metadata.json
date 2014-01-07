@@ -6,6 +6,7 @@
     "y": 1955,
     "x": 8940
   },
+
   "face_locations": [
     {
       "name": "hur7lpspp00avj94",
@@ -35,6 +36,7 @@
       }
     },
     {
+      "who": "Ardizone, Philip",
       "name": "v3mfipcrrv6b52jn",
       "locations": {
         "y": 585,
@@ -53,6 +55,7 @@
       }
     },
     {
+      "who": "Baines, Jeremy",
       "name": "rfjgc5ls6t04k205",
       "locations": {
         "y": 592,
@@ -125,6 +128,7 @@
       }
     },
     {
+      "who": "Dunham, Joanne",
       "name": "x7g69w863lk31hc7",
       "locations": {
         "y": 621,
@@ -494,6 +498,7 @@
       }
     },
     {
+      "who": "Earnshaw, Margaret",
       "name": "29johv5gfn9nt27x",
       "locations": {
         "y": 840,
@@ -629,6 +634,7 @@
       }
     },
     {
+      "who": "Nash, John Malcolm",
       "name": "8mwp4ehrovkbblu4",
       "locations": {
         "y": 1008,
@@ -1286,7 +1292,7 @@
       }
     },
     {
-      "who": "Simpson, Jacqueline Bowden",
+      "who": "Simpson, Jacqueline Boden",
       "name": "xkpmslje7no1vs9q",
       "locations": {
         "y": 678,

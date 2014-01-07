@@ -1,11 +1,12 @@
 {
+  "group_image": "SLADE_1965_A",
   "title": "SLADE 1965",
   "year": 1965,
-  "group_image": "SLADE_1965_A",
   "dim": {
     "y": 1908,
     "x": 9156
   },
+
   "face_locations": [
     {
       "name": "hm224y807982ll1a",
@@ -321,6 +322,7 @@
       }
     },
     {
+      "who": "Prendergast, Peter",
       "name": "sk1qhkrk6iwymsxe",
       "locations": {
         "y": 528,
@@ -557,6 +559,7 @@
       }
     },
     {
+      "who": "McKenna, Stuart.",
       "name": "x77ylguaixo1kmpj",
       "locations": {
         "y": 816,
@@ -612,6 +615,7 @@
       }
     },
     {
+      "who": "Knowles, Mike",
       "name": "72bl1fctln13yra5",
       "locations": {
         "y": 828,

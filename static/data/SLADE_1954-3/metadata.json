@@ -6,6 +6,7 @@
     "y": 2717,
     "x": 12001
   },
+
   "face_locations": [
     {
       "name": "6kzxiulsrbknebex",
@@ -143,6 +144,7 @@
       }
     },
     {
+      "who": "Aitchesen, Craigie",
       "name": "y7vv4avm58gddvbh",
       "locations": {
         "y": 624,
@@ -692,6 +694,7 @@
       }
     },
     {
+      "who": "Floy, Margaret",
       "name": "oiy5eh1wgi618ooy",
       "locations": {
         "y": 858,
@@ -764,6 +767,7 @@
       }
     },
     {
+      "who": "Dower, Natalie",
       "name": "qtg3mj1gjx1fdxpi",
       "locations": {
         "y": 891,
@@ -1268,6 +1272,7 @@
       }
     },
     {
+      "who": "Rogers, Claude",
       "name": "gg5sts943xm5egup",
       "locations": {
         "y": 1431,
@@ -1286,6 +1291,7 @@
       }
     },
     {
+      "who": "Boden Simpson, Jacqueline",
       "name": "6l6ygwgci6f0if1z",
       "locations": {
         "y": 1450,
@@ -1457,6 +1463,7 @@
       }
     },
     {
+      "who": "Coomber, Thomas Warren",
       "name": "tluunzbrx92zmfex",
       "locations": {
         "y": 1405,
@@ -1547,6 +1554,7 @@
       }
     },
     {
+      "who": "Evans, ,Michael",
       "name": "ag2cldzbw7akfbzw",
       "locations": {
         "y": 611,
@@ -1817,6 +1825,7 @@
       }
     },
     {
+      "who": "Van Praag, Arnold",
       "name": "nzchsb1kguoxmum9",
       "locations": {
         "y": 785,
