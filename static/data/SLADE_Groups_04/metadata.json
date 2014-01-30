@@ -1,6 +1,6 @@
 {
-  "title": "Slade at Ruskin D",
   "group_image": "SLADE_Groups_04",
+  "title": "Slade at Ruskin D",
   "dim": {
     "y": 4655,
     "x": 7505
@@ -511,6 +511,7 @@
       }
     },
     {
+      "who": "Evans, Bernice",
       "name": "jhvsz8b86ld13dcj",
       "locations": {
         "y": 2913,
