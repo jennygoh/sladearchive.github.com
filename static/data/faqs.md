@@ -8,23 +8,61 @@ The [Slade Archive Project][blog] is a research project between [UCL Slade Schoo
 
 If you are interested in having a particular photo digitised, or in supporting the Slade Archive Project more generally, please get in touch at [slade.enquiries@ucl.ac.uk][enq]
 
-### The images are too small! Can I see a detail of a person's portrait?
-
-Yes! Place your mouse on top of any of the faces in each group photo and a larger version should appear. If you click on it, you will be taken to an individual page for that portrait.
 
 ### How do I contribute?
 
-We are trying to identify the people in each of the class photos. If you can recognise somebody, go to the portrait page for that person, and comment with their name, preferably in this format: Surname, Given name. We will be checking for comments and incorporating them into the index regularly.
+We are trying to identify each sitter in these class photos. If you recognise an individual, hover your mouse over their portrait and click, then an individual page for that person will appear. You can then type their name in the comment box, preferably in this format: [Surname], [Given name]. You can also add other comments. Your comment may be moderated so if it does not immediately appear, it requires modification. We will be checking comments regularly and incorporating them into the index so your addition should appear within a short time.
 
-### You've got someone wrong, can I correct it?
 
-You certainly can! Leave a comment on the portrait page of that person, and we will correct it.
+### The images are too small! Can I see a detail of a person's portrait?
 
-### I can't leave a comment! Where can I find help?
+Yes! Place your mouse on top of any of the faces in each group photo and a larger version of the image should appear. Clicking on the image will take you to an individual page for that portrait.
 
-We are using [disqus] powered comments. You need to login using a [disqus], [facebook], [twitter] or [google] account. Disqus provides some guides if you are having trouble [commenting with disqus][commenting], [logging into disqus][logging_in] or [just using disqus comments generally][disqus_help]. 
+However, the amount of detail that can be seen is limited by the quality of the original photographs so in some instances, magnification will result in blurred photographs. Unfortunately there is no way to overcome this limitation. 
 
-If you are having trouble with anything else on the site, do contact us at [slade.enquiries@ucl.ac.uk][enq] and we'll try to help.
+
+### I have hovered my mouse over an image but it doesn’t seem to recognize or capture the face I’d like to identify.
+
+Face recognition software applied to group photographs such has its limitations and in some instances, the software will not automatically recognize facial features. Please email us [slade.enquiries@ucl.ac.uk][enq] if you encounter this problem, indicating where in the photograph the sitter is located, and we will manually identify the face in the system to allow you to identify it.
+
+
+### I prefer to send my information about identified sitters to the Slade. Is this possible? 
+
+Yes! Please feel free to send us details of sitters you can identify – by email [slade.enquiries@ucl.ac.uk][enc] or by post to: 
+
+<address>
+Slade Archive Project<br>
+Slade School of Fine Art<br>
+University College London<br>
+Gower Street<br>
+London WC1E 6BT
+</address>
+
+
+###You've identified someone incorrectly. Can I make a correction?
+
+Yes! Leave a comment on the portrait page of that person, and we will correct it.
+
+
+### I am having trouble leaving a comment. Where can I find help?
+
+We are using [disqus] powered comments. You can login to disqus using a [disqus], [facebook], [twitter] or [google] account. Disqus provides some guides if you are having trouble [commenting with disqus][commenting], [logging into disqus][logging_in] or [just using disqus comments generally][disqus_help]. 
+
+
+### I’ve read these FAQ and am still having technical difficulties. What next?
+
+Do let us know of any further technical difficulties you are experiencing by emailing [slade.enquiries@ucl.ac.uk][enq, providing as much details as you can, including the web browser you are using. Please note that as this project has limited funding and resources, it may take some time to respond to your query. Thank you for your patience.
+
+
+### Can I order a Slade class photograph?
+
+Yes! We have had a great demand for copies of these photographs and are currently developing an ordering system. We hope to have this in place by Spring/Summer 2014 so please check back with us.
+
+
+### I have a photograph that you are missing from your collection. I would like to donate the photograph to the Slade or I am prepared to lend it to you to be scanned for your collection.
+
+Thank you! We are trying to complete the collection of annual photographs and we welcome additions. Please email [slade.enquiries@ucl.ac.uk][enq] providing details of the photograph and noting if you would like to donate the original photograph or lend it to us to be digitised. Please note that as this project is operating on limited funding and resources, so it may take some time to respond to your message. 
+
 
 
 [ucldh]: http://www.ucl.ac.uk/dh
