@@ -56,7 +56,7 @@ Do let us know of any further technical difficulties you are experiencing by ema
 
 ### Can I order a Slade class photograph?
 
-Yes! We have had a great demand for copies of these photographs and are currently developing an ordering system. We hope to have this in place by Spring/Summer 2014 so please check back with us.
+If you would like to order a class photo, please download and complete this [order form][ord_form] and return to Olivia Mills [o.mills@ucl.ac.uk][ord] or post to the Slade School of Fine Art, UCL, Gower Street, London, WC1E 6BT.
 
 
 ### I have a photograph that you are missing from your collection. I would like to donate the photograph to the Slade or I am prepared to lend it to you to be scanned for your collection.
@@ -68,6 +68,8 @@ Thank you! We are trying to complete the collection of annual photographs and we
 [ucldh]: http://www.ucl.ac.uk/dh
 [slade]: http://www.ucl.ac.uk/slade
 [enq]: "mailto:slade.enquiries@ucl.ac.uk?subject=[SLADE Archive]"
+[ord]: "mailto:o.mills@ucl.ac.uk?subject=[SLADE Archive]"
+[ord_form]:  http://www.ucl.ac.uk/slade/sladearchive/slade-archive/slade-archive-orderform
 [blog]: http://blogs.ucl.ac.uk/slade-archive-project
 [slade_facebook]: https://www.facebook.com/SladeArchiveProject
 [slade_twitter]: https://twitter.com/sladearchive
