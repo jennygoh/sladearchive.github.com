@@ -51,7 +51,7 @@ We are using [disqus] powered comments. You can login to disqus using a [disqus]
 
 ### I’ve read these FAQ and am still having technical difficulties. What next?
 
-Do let us know of any further technical difficulties you are experiencing by emailing [slade.enquiries@ucl.ac.uk][enq, providing as much details as you can, including the web browser you are using. Please note that as this project has limited funding and resources, it may take some time to respond to your query. Thank you for your patience.
+Do let us know of any further technical difficulties you are experiencing by emailing [slade.enquiries@ucl.ac.uk][enq], providing as much details as you can, including the web browser you are using. Please note that as this project has limited funding and resources, it may take some time to respond to your query. Thank you for your patience.
 
 
 ### Can I order a Slade class photograph?
