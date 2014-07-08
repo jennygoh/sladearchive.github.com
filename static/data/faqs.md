@@ -67,8 +67,8 @@ Thank you! We are trying to complete the collection of annual photographs and we
 
 [ucldh]: http://www.ucl.ac.uk/dh
 [slade]: http://www.ucl.ac.uk/slade
-[enq]: "mailto:slade.enquiries@ucl.ac.uk?subject=[SLADE Archive]"
-[ord]: "mailto:o.mills@ucl.ac.uk?subject=[SLADE Archive]"
+[enq]: mailto://slade.enquiries@ucl.ac.uk?subject=[SLADE+Archive] "slade.enquiries@ucl.ac.uk"
+[ord]: mailto://o.mills@ucl.ac.uk?subject=[SLADE+Archive] "o.mills@ucl.ac.uk"
 [ord_form]:  http://www.ucl.ac.uk/slade/sladearchive/slade-archive/slade-archive-orderform
 [blog]: http://blogs.ucl.ac.uk/slade-archive-project
 [slade_facebook]: https://www.facebook.com/SladeArchiveProject
